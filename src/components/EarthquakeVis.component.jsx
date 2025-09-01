@@ -54,7 +54,7 @@ const EarthquakeVis = () => {
   }, [Earthquakes]);
 
   return (
-    <div className="flex w-full h-screen">
+    <div className="w-full h-screen md:flex">
       <SideFilter
         FilterObject={FilterObject}
         setFilterObject={setFilterObject}
