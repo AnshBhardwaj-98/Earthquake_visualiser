@@ -1,4 +1,4 @@
-# 🌍 Earthquake Visualization Dashboard
+# 🌍 Earthquake Visualizer
 
 An interactive web application that visualizes real-time earthquake data on a map using the **USGS Earthquake API**.  
 The app includes a sidebar filter panel where users can adjust magnitude and time range filters, with smooth UI and dynamic map updates.
@@ -33,5 +33,3 @@ The app includes a sidebar filter panel where users can adjust magnitude and tim
 ## API Used
 
 Data is fetched from the [USGS Earthquake API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
-
-Example endpoint used:
